@@ -13,4 +13,3 @@ Here are some ideas to get you started:
  📫 How to reach me: @immortal-miku#5702 on discord
  😄 Pronouns: He/Him
  ⚡ Fun fact: it only takes 26 tylenol to kill a perfectly healthy 150 pound male of caucasian descent (tested and proven ✅)
--->
