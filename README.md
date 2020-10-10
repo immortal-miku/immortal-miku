@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - Brainfuck
 - C
 
+## The golden rule
+```js
+if (!viewer.hasDepression) {
+  life.live.toFullest();
+} else {
+  see.psychiatrist();
+}
+
+```
+
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
+- Discord: @immortal-miku#5702
