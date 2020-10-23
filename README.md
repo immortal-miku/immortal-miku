@@ -3,7 +3,7 @@
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-My pronouns are He/Him but I don't mind if you call me anything ☺
+My pronouns are She/Her but I don't mind if you call me anything ☺
 
 ## Programming Shit
 
@@ -14,7 +14,7 @@ My pronouns are He/Him but I don't mind if you call me anything ☺
 ### Want to learn
 - Brainfuck
 - C
-
+<!--
 ## The golden rule
 ```js
 if (!viewer.hasDepression) {
@@ -22,13 +22,10 @@ if (!viewer.hasDepression) {
 } else {
   see.psychiatrist();
 }
-
+!-->
 ```
 
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
 - Discord: @immortal-miku#5702 or https://discord.gg/4XTj2Je
-
-# Fuck You's
-@Able-Times
