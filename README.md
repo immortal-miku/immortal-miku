@@ -27,4 +27,4 @@ if (!viewer.hasDepression) {
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
-- Discord: @immortal-miku#5702 or https://discord.gg/4XTj2Je
+- Discord: @immortal-cirno#5702 or https://discord.gg/VmmV2Cx
