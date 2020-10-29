@@ -14,7 +14,6 @@ My pronouns are She/Her but I don't mind if you call me anything ☺
 ### Want to learn
 - Brainfuck
 - C
-<!--
 ## The golden rule
 ```js
 if (!viewer.hasDepression) {
@@ -23,7 +22,6 @@ if (!viewer.hasDepression) {
   see.psychiatrist();
 }
 ```
-!-->
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
