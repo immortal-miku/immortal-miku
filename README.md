@@ -8,9 +8,10 @@ My pronouns are She/Her but I don't mind if you call me anything ☺
 ## Programming Shit
 
 ### Langauges
+- C++
+- C#
 - Java
 - JS
-- C++
 ### Want to learn
 - Brainfuck
 - C
