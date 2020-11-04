@@ -45,3 +45,9 @@ if (!viewer.hasDepression) {
   - Discord: bingable jame#0039
 - My eyes -  poychang
   - [Github Dark Theme](https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp)
+- IDE's (Multiple Companies)
+  - [Apache Netbeans](http://netbeans.apache.org/)
+  - [Microsoft VS Code](https://code.visualstudio.com/)
+  - [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+  - [KDE Kdevelop](https://www.kdevelop.org/download)
+  - [Jetbrains IntelliJ Idea](https://www.jetbrains.com/idea/)
