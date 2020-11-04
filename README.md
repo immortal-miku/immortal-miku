@@ -43,3 +43,5 @@ if (!viewer.hasDepression) {
 ## Credits
 - Profile Picture - Bingable Jame
   - Discord: bingable jame#0039
+- My eyes -  poychang
+  - [Github Dark Theme](https://chrome.google.com/webstore/detail/github-dark-theme/odkdlljoangmamjilkamahebpkgpeacp)
