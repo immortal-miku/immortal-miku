@@ -1,4 +1,4 @@
-# Hi there 👋 I am immortal-miku 
+# Heya, I'm Neal!
 
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
