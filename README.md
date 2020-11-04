@@ -38,3 +38,8 @@ if (!viewer.hasDepression) {
 ## Programmer Friends!
 - [gr4pe](https://github.com/nylecohen)
 - [Jakub](https://github.com/JakubWinsche)
+
+
+## Credits
+- Profile Picture - Bingable Jame
+  - Discord: bingable jame#0039
