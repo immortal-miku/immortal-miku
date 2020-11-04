@@ -15,6 +15,12 @@ My pronouns are She/Her but I don't mind if you call me anything ☺
 ### Want to learn
 - Brainfuck
 - C
+### Ask me about
+- Denorine
+- Ultima
+- Autofastforward
+- Einthusan4J
+- MDLCArchive Project
 ## The golden rule
 ```js
 if (!viewer.hasDepression) {
