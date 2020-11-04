@@ -3,7 +3,7 @@
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-My pronouns are She/Her but I don't mind if you call me anything ☺
+My pronouns are ... I have non idea anymore but I don't mind if you call me anything ☺
 
 ## Programming Shit
 
