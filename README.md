@@ -27,3 +27,8 @@ if (!viewer.hasDepression) {
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
 - Discord: @immortal-cirno#5702 or https://discord.gg/VmmV2Cx (Best way to contact me)
+
+
+## Programmer Friends!
+- [gr4pe](https://github.com/nylecohen)
+- [Jakub](https://github.com/JakubWinsche)
