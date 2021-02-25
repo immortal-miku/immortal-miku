@@ -23,7 +23,7 @@ My pronouns are She/Her, I'm trans lol
 - MDLCArchive Project
 ## The golden rule
 ```js
-if (!viewer.hasDepression) {
+if (!viewer.hasDepression && !viewer.usesPython) {
   life.live.toFullest();
 } else {
   see.psychiatrist();
