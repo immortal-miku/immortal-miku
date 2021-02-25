@@ -32,7 +32,7 @@ if (!viewer.hasDepression) {
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
-- Discord: @femboy-neal#5702 or https://discord.gg/VmmV2Cx (Best way to contact me)
+- Discord: @AliceInDystopia#8096
 
 
 ## Programmer Friends!
