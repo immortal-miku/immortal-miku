@@ -1,9 +1,9 @@
-# Heya, I'm Neal!
+# Heya, I'm Alice!!
 
 <!--
 **immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-My pronouns are ... I have non idea anymore but I don't mind if you call me anything ☺
+My pronouns are She/Her, I'm trans lol
 
 ## Programming Shit
 
@@ -32,7 +32,7 @@ if (!viewer.hasDepression) {
 ## Contact
 - Email: cheese@centrix.network
 - Work Phone: (540) 339 - 6239
-- Discord: @AliceInDystopia#8096
+- Discord: @AliceInDystopia#8396
 
 
 ## Programmer Friends!
