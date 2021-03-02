@@ -26,7 +26,7 @@ My pronouns are She/Her, I'm trans lol
 if (!viewer.hasDepression && !viewer.usesPython) {
   life.live.toFullest();
 } else {
-  see.psychiatrist();
+  viewer.see(psychiatrist);
 }
 ```
 ## Contact
